@@ -1,0 +1,44 @@
+membuat website perusahaab otong 
+
+static saja menggunakan html css js
+
+
+brief
+
+company name : Otong Visual
+
+
+Company profile
+
+1. Menjual Art Atau design
+2. commision
+
+point point
+
+1.  sulit menjangkau customer secara luas
+2.  Minim Marketing
+
+
+Business needed
+
+1. Design menarik minimalis
+2. Membuat company profile
+3. projek yang telah dikerjakan
+4. Biografi para artist
+5. portfolio para artist
+6. sosial media lengkap otong visual
+7. kontak
+
+
+Why needed website
+
+1. Wadah informasi informasi perusahaan
+	- layanan jasa/comisi
+	- memiliki galeri pribadi dari para artist
+2. branding & keunikan perusahaan
+	- kesan pertama yang positif
+	- kredibilitas artist
+3. sebagai alat pemasaran
+	- jangkauan luas
+	- efektif & efisien
+	- up to date
